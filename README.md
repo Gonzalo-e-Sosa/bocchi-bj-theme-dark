@@ -1,16 +1,39 @@
-# bocchi-theme-dark README
+# 🎨 Bocchi Boca Juniors Theme Dark
 
-## Working with Markdown
+Un tema oscuro para Visual Studio Code inspirado en **Bocchi the Rock!** y el club **Boca Juniors** 🇦🇷💙💛.  
+Ideal para quienes quieren programar con el espíritu xeneize y un toque anime.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## ✨ Características
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- **Paleta principal**: Azul oscuro (`#00133d`) y dorado (`#FFD100`), con acentos verdes para comentarios y detalles.
+- **Compatibilidad**: HTML, CSS, JavaScript, TypeScript, JSX y TSX.
+- **Diseño pensado para legibilidad**: Colores diferenciados para palabras clave, cadenas, números y funciones.
+- **Comentarios verdes** (`#6A9955`) para facilitar la lectura y organización del código.
 
-## For more information
+## 📸 Capturas
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+> *(Agrega aquí imágenes de ejemplo con tu tema aplicado en distintos lenguajes)*
 
-**Enjoy!**
+![Ejemplo en TypeScript](images/screenshot-typescript.png)
+![Ejemplo en TSX](images/screenshot-tsx.png)
+![Ejemplo en CSS](images/screenshot-css.png)
+![Ejemplo en Editor](images/screenshot-editor.png)
+
+## 📥 Instalación
+
+1. Abre **Visual Studio Code**.
+2. Ve a la sección **Extensiones** (`Ctrl+Shift+X` o `Cmd+Shift+X` en macOS).
+3. Busca **"bocchi-boca-juniors-theme-dark"**.
+4. Haz clic en **Instalar**.
+5. Activa el tema:  
+   - **Comando**: `Ctrl+K Ctrl+T` (Windows/Linux) o `Cmd+K Cmd+T` (macOS).  
+   - Selecciona **Bocchi Boca Juniors Theme Dark**.
+
+## ⚽ Inspiración
+
+- **Bocchi the Rock!**: Energía, creatividad y diversión.
+- **Boca Juniors**: Pasión, identidad y orgullo xeneize.
+
+## 📄 Licencia
+
+Este tema es de uso libre bajo licencia **MIT**.
