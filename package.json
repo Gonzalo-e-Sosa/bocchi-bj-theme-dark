@@ -1,8 +1,9 @@
 {
-  "name": "bocchi-theme-dark",
-  "displayName": "bocchi-theme-dark",
+  "name": "bocchi-boca-juniors-theme-dark",
+  "displayName": "bocchi-boca-juniors-theme-dark",
   "description": "Theme based on Bocchi from Bocchi the Rock!",
   "version": "0.0.1",
+  "publisher": "GonzaloSosa",
   "engines": {
     "vscode": "^1.103.0"
   },
@@ -14,7 +15,7 @@
       {
         "label": "Bocchi Theme Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Bocchi Theme Dark-color-theme.json"
+        "path": "./themes/Bocchi Boca Juniors Theme Dark-color-theme.json"
       }
     ]
   }
