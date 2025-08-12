@@ -1,7 +1,6 @@
 # 🎨 Bocchi Boca Juniors Theme Dark
 
 Un tema oscuro para Visual Studio Code inspirado en **Bocchi the Rock!** y el club **Boca Juniors** 🇦🇷💙💛.  
-Ideal para quienes quieren programar con el espíritu xeneize y un toque anime.
 
 ## ✨ Características
 
@@ -11,8 +10,6 @@ Ideal para quienes quieren programar con el espíritu xeneize y un toque anime.
 - **Comentarios verdes** (`#6A9955`) para facilitar la lectura y organización del código.
 
 ## 📸 Capturas
-
-> *(Agrega aquí imágenes de ejemplo con tu tema aplicado en distintos lenguajes)*
 
 ![Ejemplo en TypeScript](images/screenshot-typescript.png)
 ![Ejemplo en TSX](images/screenshot-tsx.png)
